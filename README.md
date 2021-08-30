@@ -1,4 +1,4 @@
-# SQL---Create-Table
+# Codecademy -- SQL Create Table
 
 /* create a table named friends */
 create table friends (
